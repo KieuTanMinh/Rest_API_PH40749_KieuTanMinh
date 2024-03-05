@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39332150478",
+    "project_id": "mod18309-minh",
+    "storage_bucket": "mod18309-minh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39332150478:android:0bff0c0008a0a49dd0649f",
+        "android_client_info": {
+          "package_name": "acount.poly.lab1_rest_api"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFt16pJzPVr4gO41ss-TweEIFuPRf_plA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

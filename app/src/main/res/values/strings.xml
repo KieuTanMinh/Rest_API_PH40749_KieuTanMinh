@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab1_Rest_API</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+</resources>
